@@ -1,0 +1,9 @@
+book_filename: "iDE MERL Minimum Standard"
+new_session: true
+before_chapter_script: _common.R
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
+rmd_files: ["index.Rmd","About.Rmd", "MERL_Work_Flow.Rmd","Extra1.Rmd","Extra2.Rmd",
+            "Extra3.Rmd","Extra4.Rmd","Reference.Rmd"]
