@@ -15,7 +15,7 @@ biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
 
-# Introduction {-}
+# Preface {-}
 
 Welcome to the Monitoring, Evaluation, Research, and Learning (MERL) Minimum Standards Handbook developed for iDE Global, Bangladesh. iDE is a distinguished INGO committed to creating lasting solutions for global development challenges. This document serves as a comprehensive guide to establish the minimum standards of MERL (Monitoring, Evaluation, Research & Learning) for iDE projects.
 
